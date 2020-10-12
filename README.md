@@ -1,6 +1,6 @@
 # expense_calculator
 
-A new Flutter project.
+My first Flutter project - Daily Expense Calculator App.
 
 ## Getting Started
 
